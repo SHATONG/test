@@ -12,7 +12,7 @@
 <script src="${pageContext.request.contextPath}/js/jquery-1.11.0.min.js"></script>
 <script src="${pageContext.request.contextPath}/js/pageSwitch.min.js"></script>
 <script src="${pageContext.request.contextPath}/js/container.js"></script>
-
+<!-- Test -->
 </head>
 <body>
 <div id="container">
