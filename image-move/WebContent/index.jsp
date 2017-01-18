@@ -15,7 +15,9 @@
 <!-- Test -->
 </head>
 <body>
+<!-- test -->
 <div id="container">
+
 	<div class="sections">
 		<div class="section" id="section0"><h3>this is the page1</h3></div>
 		<div class="section" id="section1"><h3>this is the page2</h3></div>
